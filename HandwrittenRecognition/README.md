@@ -1,20 +1,34 @@
+```markdown
 # ✍️ Reconhecimento de Dígitos Escritos à Mão
 
-Este projeto utiliza **redes neurais convolucionais (CNN)** para reconhecer dígitos escritos à mão, como os encontrados no conjunto de dados MNIST. Ele é ideal para treinar
----
+Este projeto usa **redes neurais convolucionais (CNN)** para reconhecer dígitos escritos à mão, como os do conjunto de dados MNIST.
 
 ## 📌 Objetivo
 
-Treinar um modelo de deep learning que consiga reconhecer imagens de números de 0 a 9 com alta acurácia.
+Treinar um modelo que reconheça imagens de números de 0 a 9 com alta precisão.
 
----
+## 🧠 Técnicas utilizadas
 
-## 🧠 Tecnologias e bibliotecas
+- Redes neurais convolucionais (CNN)
+- TensorFlow + Keras
+- Pré-processamento de imagens com OpenCV
+- Classificação com `softmax`
 
-- [Python](https://www.python.org/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [OpenCV](https://opencv.org/)
-- [NumPy](https://numpy.org/)
-- [Matplotlib](https://matplotlib.org/)
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
